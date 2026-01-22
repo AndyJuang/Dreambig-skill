@@ -1,0 +1,111 @@
+{
+  "projectName": "偏鄉金融理財小達人培育計畫",
+  
+  "organization": {
+    "fullName": "財團法人○○教育基金會",
+    "establishedDate": "民國 98 年 3 月 15 日",
+    "approvalAuthority": "教育部",
+    "registrationNumber": "台教社(三)字第 0980000000 號",
+    "registrationAddress": "○○縣○○鄉○○路○○號",
+    "mailingAddress": "○○縣○○鄉○○路○○號",
+    "directorName": "王○○",
+    "directorTitle": "董事長",
+    "contactName": "李○○",
+    "contactTitle": "專案經理",
+    "contactMobile": "0912-345-678",
+    "contactPhone": "(02) 2345-6789",
+    "fax": "(02) 2345-6780",
+    "contactEmail": "contact@example.org",
+    "website": "https://www.example.org",
+    
+    "serviceTargets": {
+      "children": {
+        "count": 120,
+        "types": ["經濟弱勢", "原住民", "單親"]
+      },
+      "youth": {
+        "count": 45,
+        "types": ["經濟弱勢", "原住民"]
+      }
+    },
+    
+    "financial": {
+      "totalAssets": "5,000,000",
+      "annualRevenue": "3,200,000",
+      "governmentGrant": 40,
+      "npoGrant": 15,
+      "serviceIncome": 10,
+      "corporateSponsorship": {
+        "percentage": 30,
+        "companies": "○○企業、△△公司"
+      },
+      "other": {
+        "percentage": 5,
+        "description": "個人捐款"
+      }
+    },
+    
+    "fullTimeStaff": 5,
+    "partTimeStaff": 3,
+    "volunteers": 20,
+    "orgChart": "董事長 → 執行長 → 專案部、行政部"
+  },
+  
+  "serviceAreaDescription": "本基金會服務範圍涵蓋○○縣○○鄉，該區域為教育部認定之偏遠地區。根據 112 年統計資料，低收入戶比例達 32%，隔代教養比例 28%，學童普遍缺乏金錢管理概念。",
+  
+  "servicePurpose": "1. 提升偏鄉學童金融素養\n2. 透過企業志工陪伴增加學習楷模\n3. 培訓在地教師金融理財教學能力",
+  
+  "currentServices": "1. 課後照顧班：每週一至五，服務 60 名學童\n2. 假日才藝營：每月 2 次，約 30 人參與\n3. 暑期營隊：每年 2 梯次，服務約 40 名學童",
+  
+  "sdgs": [4, 10, 8],
+  
+  "projectDetails": "第一階段（114/12-115/1）：種子教師培訓 2 場、教材研發 8 單元\n第二階段（115/2-5）：學童課程 16 次、志工活動 4 次、據點參訪 1 次\n第三階段（115/6）：成果發表會、紀錄片製作",
+  
+  "pastImpact": "112-113 年執行課後照顧計畫，累計服務 240 名學童，學業成績平均進步 15%，家長滿意度達 95%。",
+  
+  "corporateConnection": "1. 企業志工每月入班陪伴（4 場次）\n2. 元大專業人員協助課程設計（2 單元）\n3. 職涯分享（3 名同仁）\n4. 證券營業廳參訪（1 場）",
+  
+  "expectedOutcomes": "量化：服務 60 名學童、16 場課程、理財知識進步 25 分以上\n質化：80% 學童建立儲蓄習慣、教師具備獨立授課能力",
+  
+  "presentationPlan": "1. 成果發表會：115 年 6 月中旬\n2. 成果紀錄片：5 分鐘，115 年 6 月底前\n3. 成果手冊：A4 全彩 20 頁",
+  
+  "promotionResources": "FB 粉絲專頁 3,500 人、官方網站、LINE 官方帳號 1,200 人、媒體發稿 2 次",
+  
+  "budget": [
+    { "name": "講師費（外聘）", "unitPrice": 2000, "quantity": 4, "amount": 8000, "note": "金融專家" },
+    { "name": "講師費（內聘）", "unitPrice": 500, "quantity": 32, "amount": 16000, "note": "16週×2小時" },
+    { "name": "教材印刷費", "unitPrice": 100, "quantity": 80, "amount": 8000, "note": "" },
+    { "name": "教具購置", "unitPrice": 800, "quantity": 10, "amount": 8000, "note": "理財桌遊" },
+    { "name": "活動材料費", "unitPrice": 50, "quantity": 200, "amount": 10000, "note": "" },
+    { "name": "獎品禮品", "unitPrice": 200, "quantity": 30, "amount": 6000, "note": "" },
+    { "name": "場地佈置費", "unitPrice": 5000, "quantity": 2, "amount": 10000, "note": "" },
+    { "name": "參訪交通費", "unitPrice": 12000, "quantity": 1, "amount": 12000, "note": "遊覽車" },
+    { "name": "參訪保險費", "unitPrice": 50, "quantity": 30, "amount": 1500, "note": "" },
+    { "name": "成果紀錄片", "unitPrice": 30000, "quantity": 1, "amount": 30000, "note": "" },
+    { "name": "成果手冊印刷", "unitPrice": 150, "quantity": 100, "amount": 15000, "note": "" },
+    { "name": "會議車資（期初）", "unitPrice": 1500, "quantity": 2, "amount": 3000, "note": "" },
+    { "name": "會議車資（期末）", "unitPrice": 1500, "quantity": 2, "amount": 3000, "note": "" },
+    { "name": "會議車資（進度1）", "unitPrice": 1500, "quantity": 2, "amount": 3000, "note": "" },
+    { "name": "會議車資（進度2）", "unitPrice": 1500, "quantity": 2, "amount": 3000, "note": "" },
+    { "name": "行政雜支", "unitPrice": 13500, "quantity": 1, "amount": 13500, "note": "" }
+  ],
+  
+  "attendees": {
+    "kickoff": [
+      { "name": "李○○", "title": "專案經理", "phone": "0912-345-678", "email": "lee@example.org" },
+      { "name": "陳○○", "title": "專案助理", "phone": "0923-456-789", "email": "chen@example.org" }
+    ],
+    "final": [
+      { "name": "李○○", "title": "專案經理", "phone": "0912-345-678", "email": "lee@example.org" },
+      { "name": "陳○○", "title": "專案助理", "phone": "0923-456-789", "email": "chen@example.org" }
+    ],
+    "progress1": [
+      { "name": "李○○", "title": "專案經理", "phone": "0912-345-678", "email": "lee@example.org" },
+      { "name": "陳○○", "title": "專案助理", "phone": "0923-456-789", "email": "chen@example.org" }
+    ],
+    "progress2": [
+      { "name": "李○○", "title": "專案經理", "phone": "0912-345-678", "email": "lee@example.org" },
+      { "name": "陳○○", "title": "專案助理", "phone": "0923-456-789", "email": "chen@example.org" }
+    ]
+  }
+}

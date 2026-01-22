@@ -1,0 +1,25 @@
+{
+  "name": "dream-big-application-skill",
+  "version": "1.0.0",
+  "description": "Dream Big Application Generator Skill (MCP Server)",
+  "main": "index.js",
+  "bin": {
+    "dream-big-skill": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "docx": "^9.0.0",
+    "@modelcontextprotocol/sdk": "^1.0.1"
+  },
+  "keywords": [
+    "mcp",
+    "docx",
+    "dream-big",
+    "antigravity",
+    "claude"
+  ],
+  "author": "",
+  "license": "ISC"
+}
